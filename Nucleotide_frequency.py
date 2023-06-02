@@ -1,8 +1,8 @@
 ### Program to obtain the frequency of sequences from fasta files ###
 
 
-y = -1 # loop control variable
-sequence = "" # sequence container
+y = -1 # Loop control variable
+sequence = "" # Sequence container
 
 while y == -1: 
     # Loop to repeat intro in case of error
